@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "name": "Black Polo",
+    "type": "Polo",
+    "price": 250,
+    "currency": "INR",
+    "color": "Black",
+    "gender": "Men",
+    "quantity": 3,
+    "image": "https://images.unsplash.com/photo-1516442719524-a603408c90cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Blue Polo",
+    "type": "Polo",
+    "price": 350,
+    "currency": "INR",
+    "color": "Blue",
+    "gender": "Women",
+    "quantity": 3,
+    "image": "https://media.istockphoto.com/id/1777165387/photo/handsome-young-african-man-in-white-t-shirt-on-blue-background-with-copy-space.webp?a=1&b=1&s=612x612&w=0&k=20&c=8KbslXrqNoUVB0C2NPVc5_3I_NVWb1Kie4fx7yCxJnI="
+  },
+  {
+    "id": 3,
+    "name": "Pink Polo",
+    "type": "Polo",
+    "price": 350,
+    "currency": "INR",
+    "color": "Pink",
+    "gender": "Women",
+    "quantity": 6,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 4,
+    "name": "Black Hoodie",
+    "type": "Hoodie",
+    "image": "https://images.unsplash.com/photo-1714070700742-b59b045d2dd9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "price": 500,
+    "currency": "INR",
+    "color": "Black",
+    "gender": "Men",
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "name": "Green Polo",
+    "type": "Polo",
+    "price": 250,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Green",
+    "gender": "Men",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Green Polo",
+    "type": "Polo",
+    "price": 350,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Green",
+    "gender": "Women",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "Blue Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "Blue",
+    "gender": "Women",
+    "quantity": 2
+  },
+  {
+    "id": 8,
+    "name": "Black Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Black",
+    "gender": "Women",
+
+    "quantity": 5
+  },
+  {
+    "id": 9,
+    "name": "Blue Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "color": "Blue",
+    "gender": "Men",
+    "quantity": 2
+  },
+  {
+    "id": 10,
+    "name": "Red Round",
+    "type": "Basic",
+    "price": 300,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Red",
+    "gender": "Women",
+    "quantity": 2
+  },
+  {
+    "id": 11,
+    "name": "Grey Round",
+    "type": "Basic",
+    "price": 300,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Grey",
+    "gender": "Men",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "name": "Purple Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "Purple",
+    "gender": "Women",
+    "quantity": 3
+  },
+  {
+    "id": 13,
+
+    "name": "Grey Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "color": "Grey",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "gender": "Women",
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "name": "White Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "color": "White",
+    "gender": "Women",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "quantity": 0
+  },
+  {
+    "id": 15,
+    "name": "Black Round",
+    "type": "Basic",
+    "price": 300,
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "currency": "INR",
+    "color": "Black",
+    "gender": "Men",
+    "quantity": 7
+  },
+  {
+    "id": 16,
+    "name": "Purple Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "color": "Purple",
+    "gender": "Men",
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "name": "White Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "color": "White",
+    "gender": "Men",
+    "quantity": 2
+  },
+  {
+    "id": 18,
+    "name": "Blue Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "color": "Blue",
+    "gender": "Women",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "quantity": 3
+  },
+  {
+    "id": 19,
+    "name": "Yellow Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "Yellow",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "gender": "Women",
+    "quantity": 1
+  },
+  {
+    "id": 20,
+    "name": "White Polo",
+    "type": "Polo",
+    "price": 350,
+    "currency": "INR",
+    "color": "White",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "gender": "Women",
+    "quantity": 4
+  },
+  {
+    "id": 21,
+    "name": "Red Polo",
+    "type": "Polo",
+    "price": 250,
+    "currency": "INR",
+    "color": "Red",
+    "gender": "Men",
+    "quantity": 2
+  },
+
+  {
+    "id": 22,
+    "name": "Blue Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "Blue",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "gender": "Men",
+    "quantity": 0
+  },
+  {
+    "id": 23,
+    "name": "Grey Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "Grey",
+    "gender": "Men",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "quantity": 2
+  },
+  {
+    "id": 24,
+    "name": "Grey Polo",
+    "type": "Polo",
+    "price": 300,
+    "currency": "INR",
+    "color": "Grey",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "gender": "Men",
+    "quantity": 3
+  },
+  {
+    "id": 25,
+    "name": "Red Hoodie",
+    "type": "Hoodie",
+    "price": 300,
+    "currency": "INR",
+    "color": "Red",
+    "gender": "Men",
+    "quantity": 0
+  },
+  {
+    "id": 26,
+    "name": "White Polo",
+    "type": "Polo",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "price": 300,
+    "currency": "INR",
+    "color": "White",
+    "gender": "Men",
+    "quantity": 1
+  },
+  {
+    "id": 27,
+    "name": "White Hoodie",
+    "type": "Hoodie",
+    "price": 500,
+    "currency": "INR",
+    "color": "White",
+    "gender": "Women",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "quantity": 3
+  },
+  {
+    "id": 28,
+    "name": "Grey Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "color": "Grey",
+    "gender": "Men",
+    "quantity": 0
+  },
+  {
+    "id": 29,
+    "name": "Black Round",
+    "type": "Basic",
+    "price": 300,
+    "currency": "INR",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "color": "Black",
+    "gender": "Women",
+    "quantity": 0
+  },
+  {
+    "id": 30,
+    "name": "Black Polo",
+    "type": "Polo",
+    "price": 300,
+    "currency": "INR",
+    "image": "https://plus.unsplash.com/premium_photo-1688497830977-f9ab9f958ca7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHRzaGlydHN8ZW58MHx8MHx8fDA%3D",
+    "color": "Black",
+    "gender": "Women",
+
+    "quantity": 4
+  }
+]
